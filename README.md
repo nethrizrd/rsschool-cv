@@ -1,2 +1,2 @@
-https:/sunwithcloud.github.io/rsschool-cv/cv
-https:/sunwithcloud.github.io/rsschool-cv/
+https:/nethrizrd.github.io/rsschool-cv/cv
+https:/nethrizrd.github.io/rsschool-cv/
